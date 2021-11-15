@@ -10,6 +10,9 @@ public class MemberUI {
 
 	public static void main(String[] args) {
 		
+		System.out.print("Pull 연습");
+			
+		
 		boolean isStop = false;
 		MemberController memberController = new MemberController();
 		Scanner sc = new Scanner(System.in);
