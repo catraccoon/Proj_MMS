@@ -1,0 +1,15 @@
+package mmms.member.action;
+
+import java.util.Scanner;
+
+import mmms.member.util.ConsoleUtil;
+
+public class MemberModifyAction implements Action {
+
+	@Override
+	public void execute(Scanner sc) throws Exception {
+		
+		ConsoleUtil cu = new ConsoleUtil();
+	}
+
+}
